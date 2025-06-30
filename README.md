@@ -46,7 +46,7 @@ This project presents an analytical overview of India's startup ecosystem from 1
 
 ## 🖼️ Dashboard Preview
 
-
+[Startup Funding Dashboard] Screenshot 2025-06-28 014130.png
 ---
 ## 🧠 What I Learned
 
